@@ -1,6 +1,6 @@
 # stream-window-sim
 
-[![CI](https://github.com/YOUR-USERNAME/stream-window-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/stream-window-sim/actions/workflows/ci.yml)
+[![CI](https://github.com/Rainfallq/apsd-ass3/actions/workflows/ci.yml/badge.svg)](https://github.com/Rainfallq/apsd-ass3/actions/workflows/ci.yml)
 
 A small Python tool that compares fixed and adaptive window sizes for stream
 processing. I wrote it as a practical part for the course Applied Software
@@ -28,7 +28,7 @@ load.
 ## Install and run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/stream-window-sim.git
+git clone https://github.com/Rainfallq/apsd-ass3.git
 cd stream-window-sim
 python -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate
@@ -78,6 +78,3 @@ docs/            chart
 Open an issue first if you want to change something big. Before a pull request
 please run `ruff check .` and `pytest`. The CI runs the same commands.
 
-## License
-
-MIT, see [LICENSE](LICENSE).
